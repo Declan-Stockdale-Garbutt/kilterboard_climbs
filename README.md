@@ -29,7 +29,7 @@ Once I had this I filtered my saved climsb from climbs that occured in the datab
 
 
 ## Future
-- Extract all holds inot some form of database 
+- Extract all holds into some form of database 
 - Use that to train new climbs
 - Apply similar MoonBoard technique to validate climbs
 - Create website for users to create climbs
